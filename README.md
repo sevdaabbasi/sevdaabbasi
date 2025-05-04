@@ -6,6 +6,14 @@
 
 <br>
 
+<h3 align="center">Visitor Count:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sevdaabbasi&label=Profile%20Views&color=blue&style=plastic" alt="sevdaabbasi" />
+</p>
+
+
+---
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
 - 🔭 I’m currently working on **.NET Core backend development and teaching software engineering**.
