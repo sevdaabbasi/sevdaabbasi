@@ -20,7 +20,7 @@
 - 🚀 I have experience with **Clean Architecture, CQRS, Entity Framework Core, AutoMapper, Swift, SwiftUI, and Firebase**.
 - 💬 Ask me about **C#, ASP.NET Core, Swift, iOS Development, Backend Systems, or Software Architecture**.
 - 🧠 I love teaching and mentoring developers through **bootcamps and workshops**.
-- 📫 Reach me via: **[sevdaabbasi37@gmail.com](mailto:sevdaabbasi37@gmail.com)**
+- 📫 Reach me via: **[sevdamurioglu1@gmail.com](mailto:sevdamurioglu1@gmail.com)**
 - 💼 See my work: **[My Portfolio](https://sevdaabbasi.github.io/myPortfolio/)**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/sevda-murio%C4%9Flu-4b00271b9/)
 
